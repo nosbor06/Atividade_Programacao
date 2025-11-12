@@ -1,0 +1,6 @@
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\P_A\P_A\bin\Debug\P_A.exe.config
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\P_A\P_A\bin\Debug\P_A.exe
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\P_A\P_A\bin\Debug\P_A.pdb
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\P_A\P_A\obj\Debug\P_A.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\P_A\P_A\obj\Debug\P_A.exe
+C:\Users\Aluno_Noite\Documents\SharpDevelop Projects\P_A\P_A\obj\Debug\P_A.pdb
